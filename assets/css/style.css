@@ -1,0 +1,67 @@
+.owner-img{
+    border-radius: 50% 5% 50% 5% !important;
+}
+.owner-name{
+    margin: 0px;
+    padding-top: 20px;
+}
+.disclaimer{
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+.realar{
+    padding-bottom: 40px !important;
+}
+.about{
+    padding-bottom: 50px !important;
+}
+.about .qodef-m-title{
+   font-size: 40px !important;
+}
+.about p{
+    font-size: 20px !important;
+ }
+ .about span{
+    font-size: 14px !important;
+ }
+.bg-video{
+    position: relative;
+}
+.request{
+    position: absolute;
+    bottom: 200px;
+    left: 41%;
+}
+.request .qodef-button.qodef-layout--outlined {
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    position: relative;
+}
+
+.request .qodef-button.qodef-layout--outlined .qodef-border-holder {
+    border: 1px solid rgb(143 143 143 / 50%) !important;
+}
+
+.about-page-padding{
+    padding: 0px 50px 0px 10px !important;
+}
+
+.about-page-padding p{
+    text-align: justify !important;
+    line-height: 30px;
+}
+.about-page{
+    padding: 100px 0px 100px 0px !important;
+}
+.about-page .qodef-m-images{
+    overflow: hidden;
+    border-radius: 50px;
+}
+.about-page .about-img{
+    transition: transform 0.9s ease-in-out !important;
+    overflow: hidden;
+}
+.about-page .about-img:hover{
+    transform: scale(1.1) !important; 
+}
