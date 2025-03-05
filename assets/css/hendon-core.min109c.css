@@ -4588,7 +4588,7 @@ body:not(.qodef-drop-down-second--full-width)
 .qodef-button.qodef-layout--outlined {
   color: #c28562;
   background-color: transparent;
-  border: 1px solid #c28562;
+  border: 2px solid #c28562;
   position: relative;
 }
 .qodef-button.qodef-layout--outlined .qodef-border-holder {
@@ -5277,7 +5277,7 @@ body:not(.qodef-drop-down-second--full-width)
 }
 
 .qodef-icon-with-text.qodef-layout--content-in-box .qodef-m-icon-link:hover::before {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .qodef-m-icon-wrapper img {
   transition: transform 0.6s ease-in-out;
@@ -5292,7 +5292,7 @@ body:not(.qodef-drop-down-second--full-width)
   position: relative;
   height: 68px;
   width: 1px;
-  background: rgba(255, 255, 255, 0.2);
+  background: #fff;
   display: block;
   margin: 8px auto 0;
 }

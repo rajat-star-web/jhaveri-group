@@ -5615,6 +5615,10 @@ body:not([class*="hendon-core"])
   height: 700px;
   background-image: url(../img/home-6-img-2.jpg);
 }
+.qodef-page-title2 {
+  height: 700px;
+  background-image: url(../img/home-6-img-4.jpg) !important;
+}
 .qodef-page-title .qodef-m-title {
   color: #ffffff;
 }

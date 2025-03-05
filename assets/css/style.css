@@ -35,7 +35,7 @@
 .request .qodef-button.qodef-layout--outlined {
     color: #fff;
     background-color: transparent;
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     position: relative;
 }
 
@@ -64,4 +64,16 @@
 }
 .about-page .about-img:hover{
     transform: scale(1.1) !important; 
+}
+
+/* .aword{
+    padding: 50px 0px 50px 0px !important;
+    background: url(../img/counter-background.jpg) !important;
+} */
+.apartment-category-condo .wp-post-image{
+border-radius: 10px !important;
+}
+.projects{
+    background-color: #fff !important;
+    padding: 100px 0px 100px 0px;
 }
